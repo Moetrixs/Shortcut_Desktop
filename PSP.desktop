@@ -3,8 +3,8 @@
 Version=1.0
 Type=Application
 Terminal=false
-Icon[en_US]=/home/moetrixs/Game/PPSSPP/assets/icon_regular_72.png
 Name[en_US]=PPSSPP
+Icon[en_US]=/home/moetrixs/Game/PPSSPP/assets/icon_regular_72.png
 Comment[en_US]=Start PSP emulator
 Exec=/home/moetrixs/Game/PPSSPP/PPSSPPSDL
 Name=PPSSPP
