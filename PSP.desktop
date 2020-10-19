@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=/home/moetrixs/Game/PPSSPP/assets/icon_regular_72.png
+Name[en_US]=PSP Emulator
+Exec=/home/moetrixs/Game/PPSSPP/PPSSPPSDL
+Comment[en_US]=Start PSP emulator
+Name=PPSSPP
+Icon=/home/moetrixs/Game/PPSSPP/assets/icon_regular_72.png
+Comment=Start PSP Emulator
